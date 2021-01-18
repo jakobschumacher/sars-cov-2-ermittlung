@@ -1,0 +1,12 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0px;
+  padding: 0px;
+ }
+ .dot {
+   height: 25px;
+   width: 25px;
+   background-color: #bbb;
+   border-radius: 50%;
+   display: inline-block;
+ }
